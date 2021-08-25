@@ -1,0 +1,2 @@
+# HelloMavenWorld
+Example Maven project
