@@ -1,1 +1,1 @@
-Example Maven test repo for CI at Cambridge
+Example Maven test repo for CI.
