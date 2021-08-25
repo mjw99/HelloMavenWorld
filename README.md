@@ -1,2 +1,1 @@
-# HelloMavenWorld
-Example Maven project
+Example Maven test repo for CI at Cambridge
