@@ -1,6 +1,6 @@
-Example Maven test repo for CI.
+# Example Maven test repo for CI
 
-Quickstart on Ubuntu 24.04
+## Quickstart on Ubuntu 24.04
 ```
 sudo apt-get install git openjdk-21-jdk maven
 git clone https://github.com/mjw99/HelloMavenWorld.git
